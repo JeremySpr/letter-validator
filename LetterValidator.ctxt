@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=LetterValidator
+comment0.text=\r\n\ This\ class\ validates\ if\ every\ letter\ of\ the\ alphabet\ is\ used\ in\ a\ user-defined\ sentence.\r\n\r\n\ @Jeremy\ Sprader\r\n\ @02/24/22\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
